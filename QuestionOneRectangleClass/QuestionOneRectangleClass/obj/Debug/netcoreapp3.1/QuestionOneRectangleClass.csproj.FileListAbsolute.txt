@@ -1,0 +1,13 @@
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\obj\Debug\netcoreapp3.1\QuestionOneRectangleClass.csprojAssemblyReference.cache
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\obj\Debug\netcoreapp3.1\QuestionOneRectangleClass.csproj.CoreCompileInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\obj\Debug\netcoreapp3.1\QuestionOneRectangleClass.AssemblyInfoInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\obj\Debug\netcoreapp3.1\QuestionOneRectangleClass.AssemblyInfo.cs
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\bin\Debug\netcoreapp3.1\QuestionOneRectangleClass.exe
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\bin\Debug\netcoreapp3.1\QuestionOneRectangleClass.deps.json
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\bin\Debug\netcoreapp3.1\QuestionOneRectangleClass.runtimeconfig.json
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\bin\Debug\netcoreapp3.1\QuestionOneRectangleClass.runtimeconfig.dev.json
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\bin\Debug\netcoreapp3.1\QuestionOneRectangleClass.dll
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\bin\Debug\netcoreapp3.1\QuestionOneRectangleClass.pdb
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\obj\Debug\netcoreapp3.1\QuestionOneRectangleClass.dll
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\obj\Debug\netcoreapp3.1\QuestionOneRectangleClass.pdb
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionOneRectangleClass\QuestionOneRectangleClass\obj\Debug\netcoreapp3.1\QuestionOneRectangleClass.genruntimeconfig.cache

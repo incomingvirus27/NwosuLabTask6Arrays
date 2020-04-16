@@ -1,0 +1,13 @@
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\obj\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.csprojAssemblyReference.cache
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\obj\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.csproj.CoreCompileInputs.cache
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\obj\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.AssemblyInfoInputs.cache
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\obj\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.AssemblyInfo.cs
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\bin\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.exe
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\bin\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.deps.json
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\bin\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.runtimeconfig.json
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\bin\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.runtimeconfig.dev.json
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\bin\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.dll
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\bin\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.pdb
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\obj\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.dll
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\obj\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.pdb
+C:\Users\emma\source\repos\QuestionTwoSavingsAccountClass\QuestionTwoSavingsAccountClass\obj\Debug\netcoreapp3.1\QuestionTwoSavingsAccountClass.genruntimeconfig.cache

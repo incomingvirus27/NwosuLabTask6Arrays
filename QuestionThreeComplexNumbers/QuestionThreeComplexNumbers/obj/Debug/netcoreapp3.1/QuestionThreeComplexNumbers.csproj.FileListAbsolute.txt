@@ -1,0 +1,13 @@
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\bin\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.exe
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\bin\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.deps.json
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\bin\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.runtimeconfig.json
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\bin\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.runtimeconfig.dev.json
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\bin\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.dll
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\bin\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.pdb
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\obj\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.csprojAssemblyReference.cache
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\obj\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\obj\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.AssemblyInfoInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\obj\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.AssemblyInfo.cs
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\obj\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.dll
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\obj\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.pdb
+C:\Users\emma\Documents\Visual Studio 2019\LabTask6\QuestionThreeComplexNumbers\QuestionThreeComplexNumbers\obj\Debug\netcoreapp3.1\QuestionThreeComplexNumbers.genruntimeconfig.cache
